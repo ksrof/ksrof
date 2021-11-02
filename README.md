@@ -2,8 +2,8 @@
 
 ### What I'm working on?
 
-- **[Yummybook-api](https://github.com/ksrof/yummybook-api)**
-  - This is the first part of yummybook, consists of a REST Api made with Golang, Gin, Gorm and JWT. Yummybook is a teeny-tiny webapp that allows you to create,    tag, and filter your own recipes, never lose time again searching the right meal on the internet, you'll have the preparation from start-to-finish at your disposal in a blink of an eye!
+- **[Yummybook](https://github.com/ksrof/yummybook)**
+  - Yummybook is a teeny-tiny webapp that allows you to create,    tag, and filter your own recipes, never lose time again searching the right meal on the internet, you'll have the preparation from start-to-finish at your disposal in a blink of an eye!
 
 ### What's currently on my toolbox?
 
