@@ -2,8 +2,8 @@
 
 ### What I'm working on?
 
-- **[Heatoit](https://github.com/heatoit/)**
-  - Heatoit is a teeny-tiny webapp that allows you to create, tag, and filter your own recipes, never lose time again searching the right meal on the internet, you'll have the preparation from start-to-finish at your disposal in a blink of an eye!
+- **[Golog](https://github.com/ksrof/golog)**
+  - Golog is a logger library for Go (golang), which works on top of the standard library logger. It gives nicely color-coded output (when a terminal is used) otherwise it can write the contents to a file in JSON format.
 
 ### Contact info
 
