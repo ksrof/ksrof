@@ -10,9 +10,6 @@
 ### Contact info
 
 - Web: Working on it
-- Blog: Working on it
+- [Blog](https://medium.com/@ksrof)
 - Mail: kevinsunercontacto@gmail.com
-
-### My Github Stats
-![ksrof github stats](https://github-readme-stats.vercel.app/api?username=ksrof&count_private=false&hide_title=true)
 
