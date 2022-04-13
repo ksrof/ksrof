@@ -6,7 +6,7 @@ This is **Kevin** a **Software Engineer** who likes to contribute with his own-m
 - [**gocolors:**](https://github.com/ksrof/gocolors) Color library for `Golang` which works along the standard library `fmt` and `log` packages. It can render text in a wide variety of colors giving your programs a much more outstanding output. **WIP**
 
 ## 🤖 Actions
-- [**trello-action:**](https://github.com/ksrof/trello-action) Easily automate the process of creating, moving and deleting `Trello Cards`, use the power of `Github Actions` to perform requests on the `Trello API` when a new `Issue` or `Pull Request` gets made, updated, labeled or closed! **WIP**
+- [**trello-action:**](https://github.com/ksrof/trello-action) Easily automate the process of creating, moving and deleting Trello Cards, harness the power of Github Actions to perform requests on the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) when `issues` or `pull requests` get `opened`, `reopened`, `labeled` or `closed`! **WIP**
 
 ## 👹 Katas
 - [**gilded-rose-kata:**](https://github.com/ksrof/gilded-rose-kata) Gilded Rose refactoring kata made with `Golang`
