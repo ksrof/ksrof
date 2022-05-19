@@ -1,17 +1,38 @@
-## Greetings from Spain! 🇪🇸
-This is **Kevin** a **Software Engineer** who likes to contribute with his own-made open source projects and who writes from time to time about stuff that he finds interesting or worth sharing, here is a list of the things that he is currently working on, take a look and do whatever you please with what you find.
+# :wave: Greetings from Spain
+This is **Kevin** a human who likes to work with computers and people. **Software Engineer** by craft, **Wannabe Writer** by heart. I contribute with my own-made **Open Source** projects and write about stuff that I find _cool_ from time-to-time. Down below you will find the projects that I'm actively working on, along a schedule table which helps me to keep myself on-track.
 
-## 🧰 Tools
-- [**golog:**](https://github.com/ksrof/golog) Logger library for `Golang` which works on top of the standard library logger. It gives a nicely color-coded output (when used alongisde a `TTY`) otherwise it can write the contents to a file in `JSON` format. **WIP**
-- [**gocolors:**](https://github.com/ksrof/gocolors) Color library for `Golang` which works along the standard library `fmt` and `log` packages. It can render text in a wide variety of colors giving your programs a much more outstanding output. **WIP**
+## :rocket: Active projects
+- [trello-action] Easily automate the process of creating, moving, and deleting **Trello cards** by harnessing the power of **Github actions** to perform requests on the [trello-api] when **Issues** or **Pulls** get opened, reopened, labeled or closed.
 
-## 🤖 Actions
-- [**trello-action:**](https://github.com/ksrof/trello-action) Easily automate the process of creating, moving and deleting Trello Cards, harness the power of Github Actions to perform requests on the [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) when `issues` or `pull requests` get `opened`, `reopened`, `labeled` or `closed`! **WIP**
+## :package: Recent releases
+- There aren't recent releases for the moment, but don't fret soon there will be!
 
-## 👹 Katas
-- [**gilded-rose-kata:**](https://github.com/ksrof/gilded-rose-kata) Gilded Rose refactoring kata made with `Golang`
+## :calendar: Boxes of time
+Boxes of time are periods where I focus exclusively on one task, this I have found to be a good method to get things done.
 
-## 💬 Contact
-- [**website:**](#) Work in progress
-- [**blog**](https://medium.com/@ksrof)
-- [**email:**](#) kevinsunercontacto@gmail.com
+| From      | To        | Monday            | Tuesday           | Wednesday         | Thursday  | Friday    |
+| --------- | --------- | ----------------- | ----------------- | ----------------- | --------- | --------- |
+| 6:30AM    | 7:30AM    | Read              | Read              | Read              | Read      | Read      |
+| 7:30AM    | 9:00AM    | [trello-action]   | Writing           | [trello-action]   | Writing   |           |
+| 6:00PM    | 8:00PM    | [trello-action]   | Other(s)          | [trello-action]   | Other(s)  |           |
+
+
+## :mailbox: Contact info
+- [website] Work in progress
+- [blog] Stories on Medium
+- [twitter] I say things
+- [linkedin] For business
+- [email] My email
+
+<!-- active projects -->
+[trello-action]: https://github.com/ksrof/trello-action/
+
+<!-- contact info  -->
+[website]: https://github.com/ksrof/
+[blog]: https://medium.com/@ksrof/
+[twitter]: https://twitter.com/itsksrof/
+[linkedin]: https://linkedin.com/in/ksrof/
+[email]: mailto:kevinsunercontacto@gmail.com
+
+<!-- others -->
+[trello-api]: https://api.trello.com/
