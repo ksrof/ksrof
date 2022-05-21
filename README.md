@@ -10,12 +10,12 @@ This is **Kevin** a human who likes to work with computers and people. **Softwar
 ## :calendar: Boxes of time
 Boxes of time are periods where I focus exclusively on one task, this I have found to be a good method to get things done.
 
-| From      | To        | Task                                      |
-| --------- | --------- | ----------------------------------------- |
-| 6:30AM    | 7:30AM    | `Reading`                                 |
-| 7:30AM    | 9:00AM    | `Trello Action || Writing || Other(s)`    |
-| 11:30AM   | 13:30PM   | `Trello Action || Writing || Other(s)`    |
-| 6:00PM    | 8:00PM    | `Trello Action || Writing || Other(s)`    |
+| From      | To        | Task                                  |
+| --------- | --------- | ------------------------------------- |
+| 6:30AM    | 7:30AM    | `Reading`                             |
+| 7:30AM    | 9:00AM    | `Trello Action / Writing / Other(s)`  |
+| 11:30AM   | 13:30PM   | `Trello Action / Writing / Other(s)`  |
+| 6:00PM    | 8:00PM    | `Trello Action / Writing / Other(s)`  |
 
 **Rules**
 - `Reading` time-box repeats from monday-to-friday
